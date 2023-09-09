@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admiring [Person's Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .quote {
+            font-style: italic;
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Admiring [Person's Name]</h1>
+    </header>
+
+    <div class="container">
+        <img src="person.jpg" alt="[Person's Name]">
+        <p>
+            I greatly admire [Person's Name] for their remarkable qualities and achievements. [He/She] has inspired me in many ways throughout [his/her] life.
+        </p>
+        
+        <p>
+            [Person's Name] possesses unwavering determination and dedication to [his/her] goals. [He/She] has demonstrated incredible resilience in the face of challenges, which serves as a constant source of motivation for me.
+        </p>
+
+        <p class="quote">
+            "[Insert Inspirational Quote by Person]"
+        </p>
+
+        <p>
+            [Person's Name] is not only a role model in their field but also a compassionate and kind-hearted individual. [He/She] actively contributes to making the world a better place through [his/her] philanthropic endeavors.
+        </p>
+    </div>
+
+    <footer>
+        &copy; 2023 Your Name
+    </footer>
+</body>
+</html>
